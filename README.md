@@ -13,6 +13,9 @@ UnityL10nTool https://github.com/dmc31a42/UnityL10nTool
 bmfont https://www.angelcode.com/products/bmfont/   
 Notepad++ https://notepad-plus-plus.org/   
   
+教程来源：  
+https://www.cnblogs.com/guobaoxu/p/12055930.html  
+  
 字符集说明Character set description：  
 First use the smaller number in that language,  
 "n" is not recommended for priority use.  
