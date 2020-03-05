@@ -1,4 +1,5 @@
-# Unity-Game-localization-tutorial-and-toolkit  
+# Unity-Game-localization-tutorial-and-toolkit    
+# Unity游戏汉化/本地化教程及工具包  
   
 字符集由MSK Ggroup-Icetric制作  
   
