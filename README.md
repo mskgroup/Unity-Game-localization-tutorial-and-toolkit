@@ -3,15 +3,15 @@
 字符集由MSK Ggroup-Icetric制作
 
 工具包内各工具来源：
-https://github.com/DerPopo/UABE
-https://github.com/Perfare/AssetStudio
-https://github.com/Perfare/Il2CppDumper
-https://github.com/0xd4d/dnSpy
-https://github.com/JeremieCHN/MetaDataStringEditor
-https://github.com/dmc31a42/UnityL10nTool
-https://github.com/nowar-fonts/Warcraft-Font-Merger
-https://www.angelcode.com/products/bmfont/
-https://notepad-plus-plus.org/
+AssetsBundleExtracto https://github.com/DerPopo/UABE
+AssetStudio https://github.com/Perfare/AssetStudio
+Il2CppDumper https://github.com/Perfare/Il2CppDumper
+dnSpy https://github.com/0xd4d/dnSpy
+MetaDataStringEditor https://github.com/JeremieCHN/MetaDataStringEditor
+UnityL10nTool https://github.com/dmc31a42/UnityL10nTool
+字体合并补全工具 https://github.com/nowar-fonts/Warcraft-Font-Merger
+bmfont https://www.angelcode.com/products/bmfont/
+Notepad++ https://notepad-plus-plus.org/
 
 字符集说明Character set description：
 First use the smaller number in that language,
