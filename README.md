@@ -13,6 +13,8 @@ UnityL10nTool https://github.com/dmc31a42/UnityL10nTool
 字体合并补全工具 https://github.com/nowar-fonts/Warcraft-Font-Merger   
 bmfont https://www.angelcode.com/products/bmfont/   
 Notepad++ https://notepad-plus-plus.org/   
+UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/  
+Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595
   
 教程来源：  
 https://www.cnblogs.com/guobaoxu/p/12055930.html  
