@@ -1,9 +1,9 @@
 # Unity-Game-localization-tutorial-and-toolkit    
 # Unity游戏汉化/本地化教程及工具包  
   
-**字符集由MSK Ggroup-Icetric制作 
+**字符集由MSK Ggroup-Icetric制作** 
   
-工具包内各工具来源：  
+**工具包内各工具来源：**  
 AssetsBundleExtracto https://github.com/DerPopo/UABE   
 AssetStudio https://github.com/Perfare/AssetStudio   
 Il2CppDumper https://github.com/Perfare/Il2CppDumper   
@@ -16,10 +16,10 @@ Notepad++ https://notepad-plus-plus.org/
 UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/  
 Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595
   
-**教程来源：  
+**教程来源：**  
 https://www.cnblogs.com/guobaoxu/p/12055930.html  
   
-**字符集说明Character set description：  
+**字符集说明Character set description：**  
 First use the smaller number in that language,  
 "n" is not recommended for priority use.  
   
@@ -49,7 +49,7 @@ First use the smaller number in that language,
 2 - GB12345繁体  
   
 ***所有文件均包含【俄文/拉丁文/希腊文/日文(片假/平假)】，并已针对西班牙语Ññ优化。***  
-All files include [Russian / Latin / Greek / Japanese (Piece / Platform)] and are optimized for Spanish Ññ.***  
+***All files include [Russian / Latin / Greek / Japanese (Piece / Platform)] and are optimized for Spanish Ññ.***  
   
 ***字符越多，占用越大，所以应尽量选择更少的字符集。***  
 ***The more characters there are, the larger the footprint, so try to choose as few character sets as possible.***  
