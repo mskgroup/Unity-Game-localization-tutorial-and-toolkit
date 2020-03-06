@@ -75,20 +75,20 @@ First use the smaller number in that language,
 7、将制作好的新字体用【5、6】方式导出，并按教程内容修改json文件。  
 8、将修改后的新字体json导入回资源包，保存。  
   
-*运行游戏查看效果。*  
+**运行游戏查看效果。**  
   
 Unity localization process  
-1,  
+1.  
   If Mono backend uses dnSpy to modify the text in Assembly-CSharp.dll.  
   If the il2cpp backend uses MetaDataStringEditor to modify the text in global-metada.dat.  
   Use UnityEX or UABE to extract and modify the text (if any) in the TextAsset file in the game resource pack.  
   
-* Run the game to see the effect. If the display is normal, the following operations are not required. *  
+*Run the game to see the effect. If the display is normal, the following operations are not required. *  
   
 2. Use UnityL10nTool to view the font name and format in the game.  
 3. Use UnityEX to extract and replace the UnityDefaultFont (usually a * .ttf file).  
   
-* If there is no TMP or NGUI font, the following operations are not required. *  
+*If there is no TMP or NGUI font, the following operations are not required. *  
   
 4.  
   NGUI uses BMFont to make new fonts.  
