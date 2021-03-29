@@ -21,7 +21,7 @@ UABEA https://github.com/nesrak1/UABEA
 **文字教程来源：**  
 https://www.cnblogs.com/guobaoxu/p/12055930.html
 
-**原创视频教程：** 
+**原创视频教程：**  
 https://www.bilibili.com/video/BV12K4y1j7w7/  
   
 **字符集说明Character set description：**  
