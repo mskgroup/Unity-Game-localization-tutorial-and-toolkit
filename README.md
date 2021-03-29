@@ -18,8 +18,11 @@ Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595
 CS2CSV https://github.com/Helly0000/UnityTranz
 UABEA https://github.com/nesrak1/UABEA
   
-**教程来源：**  
-https://www.cnblogs.com/guobaoxu/p/12055930.html  
+**文字教程来源：**  
+https://www.cnblogs.com/guobaoxu/p/12055930.html
+
+**原创视频教程：** 
+https://www.bilibili.com/video/BV12K4y1j7w7/  
   
 **字符集说明Character set description：**  
 First use the smaller number in that language,  
