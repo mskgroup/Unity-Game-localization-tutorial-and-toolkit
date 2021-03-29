@@ -14,9 +14,9 @@ UnityL10nTool https://github.com/dmc31a42/UnityL10nTool
 bmfont https://www.angelcode.com/products/bmfont/   
 Notepad++ https://notepad-plus-plus.org/   
 UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/  
-Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595
-CS2CSV https://github.com/Helly0000/UnityTranz
-UABEA https://github.com/nesrak1/UABEA
+Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595  
+CS2CSV https://github.com/Helly0000/UnityTranz  
+UABEA https://github.com/nesrak1/UABEA  
   
 **文字教程来源：**  
 https://www.cnblogs.com/guobaoxu/p/12055930.html
