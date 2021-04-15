@@ -4,19 +4,26 @@
 **字符集由MSK Ggroup-Icetric制作** 
   
 **工具包内各工具来源：**  
-AssetsBundleExtracto https://github.com/DerPopo/UABE   
+AssetsBundleExtracto(UABE) https://github.com/DerPopo/UABE   
 AssetStudio https://github.com/Perfare/AssetStudio   
 Il2CppDumper https://github.com/Perfare/Il2CppDumper   
 dnSpy https://github.com/0xd4d/dnSpy   
 MetaDataStringEditor https://github.com/JeremieCHN/MetaDataStringEditor   
 UnityL10nTool https://github.com/dmc31a42/UnityL10nTool   
-字体合并补全工具 https://github.com/nowar-fonts/Warcraft-Font-Merger   
+FontMergeSupplementaryTools https://github.com/nowar-fonts/Warcraft-Font-Merger   
 bmfont https://www.angelcode.com/products/bmfont/   
 Notepad++ https://notepad-plus-plus.org/   
 UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/  
+<<<<<<< Updated upstream
 Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595  
 CS2CSV https://github.com/Helly0000/UnityTranz  
 UABEA https://github.com/nesrak1/UABEA  
+=======
+Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595
+UnityTranz(CS2CSV) https://github.com/Helly0000/UnityTranz
+UABEAvalonia https://github.com/nesrak1/UABEA
+RemoveDuplicateText https://blog.csdn.net/zxfhahaha/article/details/80295653
+>>>>>>> Stashed changes
   
 **文字教程来源：**  
 https://www.cnblogs.com/guobaoxu/p/12055930.html
