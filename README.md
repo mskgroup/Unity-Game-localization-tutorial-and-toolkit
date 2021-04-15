@@ -14,16 +14,10 @@ FontMergeSupplementaryTools https://github.com/nowar-fonts/Warcraft-Font-Merger
 bmfont https://www.angelcode.com/products/bmfont/   
 Notepad++ https://notepad-plus-plus.org/   
 UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/  
-<<<<<<< Updated upstream
 Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595  
-CS2CSV https://github.com/Helly0000/UnityTranz  
-UABEA https://github.com/nesrak1/UABEA  
-=======
-Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595
 UnityTranz(CS2CSV) https://github.com/Helly0000/UnityTranz
 UABEAvalonia https://github.com/nesrak1/UABEA
 RemoveDuplicateText https://blog.csdn.net/zxfhahaha/article/details/80295653
->>>>>>> Stashed changes
   
 **文字教程来源：**  
 https://www.cnblogs.com/guobaoxu/p/12055930.html
