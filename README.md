@@ -14,22 +14,25 @@ FontMergeSupplementaryTools https://github.com/nowar-fonts/Warcraft-Font-Merger
 bmfont https://www.angelcode.com/products/bmfont/   
 Notepad++ https://notepad-plus-plus.org/   
 UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/  
-<<<<<<< Updated upstream
 Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595  
-CS2CSV https://github.com/Helly0000/UnityTranz  
-UABEA https://github.com/nesrak1/UABEA  
-=======
-Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595
-UnityTranz(CS2CSV) https://github.com/Helly0000/UnityTranz
-UABEAvalonia https://github.com/nesrak1/UABEA
-RemoveDuplicateText https://blog.csdn.net/zxfhahaha/article/details/80295653
->>>>>>> Stashed changes
+UnityTranz(CS2CSV) https://github.com/Helly0000/UnityTranz  
+UABEAvalonia https://github.com/nesrak1/UABEA  
+RemoveDuplicateText https://blog.csdn.net/zxfhahaha/article/details/80295653  
+  
   
 **文字教程来源：**  
-https://www.cnblogs.com/guobaoxu/p/12055930.html
+https://www.cnblogs.com/guobaoxu/p/12055930.html  
 
 **原创视频教程：**  
-https://www.bilibili.com/video/BV12K4y1j7w7/  
+第1期：Mono脚本 Assembly-CSharp https://www.bilibili.com/video/BV12K4y1j7w7/  
+第2期：IL2CPP脚本 global-metadata https://www.bilibili.com/video/BV1Pa411w73y/  
+第3期：MonoBehaviour https://www.bilibili.com/video/BV1k54y1z7oY/  
+第4期：Text Asset https://www.bilibili.com/video/BV195411V7GD/  
+第5期：Texture2D Asset https://www.bilibili.com/video/BV1kz4y1y72z/  
+第6期：Unity Default Font (UGUI) https://www.bilibili.com/video/BV1Pa411w79B/  
+第7期：TMP Font Asse https://www.bilibili.com/video/BV1D5411V7MK/  
+第8期：NGUI Font Asset https://www.bilibili.com/video/BV1y5411V7rf/  
+扩展1：RAW格式文件 16进制下修改字符串 https://www.bilibili.com/video/BV12y4y1q7Yv/  
   
 **字符集说明Character set description：**  
 First use the smaller number in that language,  
