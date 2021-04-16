@@ -17,7 +17,11 @@ UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/
 Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595  
 UnityTranz(CS2CSV) https://github.com/Helly0000/UnityTranz  
 UABEAvalonia https://github.com/nesrak1/UABEA  
-RemoveDuplicateText https://blog.csdn.net/zxfhahaha/article/details/80295653  
+RemoveDuplicateCharacters
+--RemoveDuplicateText https://blog.csdn.net/zxfhahaha/article/details/80295653  
+--FilterRepeatCharacter https://blog.csdn.net/Heroan1123/article/details/102749051  
+--java https://blog.csdn.net/weixin_37730482/article/details/72483137  
+  
   
 **文字教程来源：**  
 https://www.cnblogs.com/guobaoxu/p/12055930.html  
@@ -68,7 +72,7 @@ First use the smaller number in that language,
 ***字符越多，占用越大，所以应尽量选择更少的字符集。***  
 ***The more characters there are, the larger the footprint, so try to choose as few character sets as possible.***  
 
-**Unity汉化流程**  
+**Unity基本汉化流程**  
 1、  
   若Mono后端使用dnSpy修改Assembly-CSharp.dll中的文字。  
   若il2cpp后端使用MetaDataStringEditor修改global-metada.dat中的文字。  
