@@ -17,10 +17,7 @@ UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/
 Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595  
 UnityTranz(CS2CSV) https://github.com/Helly0000/UnityTranz  
 UABEAvalonia https://github.com/nesrak1/UABEA  
-RemoveDuplicateCharacters
---RemoveDuplicateText https://blog.csdn.net/zxfhahaha/article/details/80295653  
---FilterRepeatCharacter https://blog.csdn.net/Heroan1123/article/details/102749051  
---java https://blog.csdn.net/weixin_37730482/article/details/72483137  
+FilterRepeatCharacter https://blog.csdn.net/Heroan1123/article/details/102749051  
   
   
 **文字教程来源：**  
