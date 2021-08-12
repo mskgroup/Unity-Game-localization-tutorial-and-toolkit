@@ -14,11 +14,12 @@ FontMergeSupplementaryTools https://github.com/nowar-fonts/Warcraft-Font-Merger
 bmfont https://www.angelcode.com/products/bmfont/   
 Notepad++ https://notepad-plus-plus.org/   
 UnityEX https://forum.zoneofgames.ru/topic/36240-unityex/  
-Unity3DExtractorOSE & UnityEXPluginOSE  http://blog.sina.com.cn/u/3027377595  
 UnityTranz(CS2CSV) https://github.com/Helly0000/UnityTranz  
 UABEAvalonia https://github.com/nesrak1/UABEA  
 FilterRepeatCharacter https://blog.csdn.net/Heroan1123/article/details/102749051  
 UnityAssetsAdvancedEditor https://github.com/Igor55x/UAAE  
+Il2CppAssemblyUnhollower https://github.com/knah/Il2CppAssemblyUnhollower  
+MelonLoader https://github.com/LavaGang/MelonLoader  
   
   
 **文字教程来源：**  
